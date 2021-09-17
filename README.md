@@ -13,3 +13,5 @@
   >- 익명으로 서로의 고민을 나누며 격려하는 게시판
   
 
+![고민게시판1](https://user-images.githubusercontent.com/88171499/133720128-d04466ee-670c-44e1-9a7a-d8232d83ae9e.png)
+![고민게시판2](https://user-images.githubusercontent.com/88171499/133720130-9467fbe4-2dcc-4fa6-b8d0-286db3ec66f6.png)
